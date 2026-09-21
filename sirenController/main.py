@@ -199,7 +199,7 @@ panel.pack(fill="x", padx=20, pady=(10, 20))
 title_label = ctk.CTkLabel(panel, text="WARNING SIGNAL CONTROL", font=("Impact", 22), text_color="#FFFFFF")
 title_label.pack(pady=(12, 0))
 
-sub_label = ctk.CTkLabel(panel, text="MODEL AF SERIES AII — OPEN SIREN SYNTHESIZER", font=("Arial", 9, "bold"), text_color="#E0E0E0")
+sub_label = ctk.CTkLabel(panel, text="MODEL AFA SERIES 110 — OPEN SIREN SYNTHESIZER", font=("Arial", 9, "bold"), text_color="#E0E0E0")
 sub_label.pack(pady=(0, 15))
 
 btn_grid = ctk.CTkFrame(panel, fg_color="transparent")
